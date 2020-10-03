@@ -26,4 +26,5 @@
 - [Oak](https://oakserver.github.io/oak/): Express but for deno
 - Some basic guitar.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suyashtnt)](https://github.com/anuraghazra/github-readme-stats)
 Um idk what to put now ok bye
