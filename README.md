@@ -4,7 +4,7 @@
 ## Random things I randomly do at random times
 
  - V i b e.
- - Play random games(Mostly TABS, Minecraft and Blockpost).
+ - Play random games(Mostly TABS, Minecraft and TABG).
  - Code.
  -  - Make absolutely random APIS for no apparent reason.
  -  - work on frontends for some of them.
