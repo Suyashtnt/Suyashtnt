@@ -9,9 +9,6 @@
  -  - Make absolutely random APIS for no apparent reason.
  -  - work on frontends for some of them.
  -  -  - i know Svelte, Sapper and Vuejs.
- -  - - templates I usually use: 
- -  - - - [omega sapper GQL firebase](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template)
- -  - - - [good old Svelte template](https://github.com/sveltejs/template)
  -  - mess around with things.
  -  - make Minecraft mods(fabric).
  -  - most things i make are open source.
