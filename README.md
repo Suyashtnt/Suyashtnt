@@ -4,26 +4,27 @@
 ## Random things I randomly do at random times
 
  - V i b e.
- - Play random games(Mostly TABS, Minecraft and TABG).
+ - Play random games(Minecraft, TABG, Apex, Dyson Sphere Program).
  - Code.
  -  - Make absolutely random APIS for no apparent reason.
  -  - work on frontends for some of them.
- -  -  - i know Svelte, Sapper and Vuejs.
  -  - mess around with things.
  -  - make Minecraft mods(fabric).
  -  - most things i make are open source.
+
 ## Things I know
 - [Svelte](https://svelte.dev/): A frontend "framework" for making high performant, 0-dependency apps because it's a compiler.
-- [Sapper](https://sapper.svelte.dev/): Next.js but for svelte, exept its way smaller and has minor differences.
+- [Sveltekit](https://kit.svelte.dev/): Next.js/Nuxt but for svelte.
+- [Rust](https://www.rust-lang.org/): A language empowering everyone
+to build reliable and efficient software.
 - [Node.js](https://nodejs.org/en/): A runtime for javascript using the V8 engine.
-- [Deno](https://deno.land/): Node.js but does things better, written in rust and is _definitely_ not ready for prod. Also pronounced dee-no.
-- [GraphQL](https://graphql.org/): API response thingy(like REST) but was made to be client-friendly, not server friendly. Takes like 20 lines of code for a hello world program but it provides sanity for large projects and has a typing system.
+- [Deno](https://deno.land/): Node.js rust edition.
+- [GraphQL](https://graphql.org/): An API endpoint manager thing (Like REST but not).
 - [Unity](https://unity.com/): A 3D and 2D game engine using C#.
-- [Express](http://expressjs.com/): Node.js web framework
-- [Oak](https://oakserver.github.io/oak/): Express but for deno
+- [Oak](https://oakserver.github.io/oak/): Express but for deno.
 - Some basic guitar.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suyashtnt)](https://github.com/anuraghazra/github-readme-stats)
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Suyashtnt&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 
 Um idk what to put now ok bye
