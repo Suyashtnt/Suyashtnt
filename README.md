@@ -25,6 +25,6 @@ to build reliable and efficient software.
 - Some basic guitar.
 
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Suyashtnt&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suyashtnt&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=161320&ring=96CDFB&currStreakLabel=96CDFB&fire=DDB6F2&currStreakNum=D9E0EE&sideLabels=D9E0EE&sideNums=D9E0EE&dates=E8A2AF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suyashtnt&theme=onedark&date_format=j%20M%5B%20Y%5D&background=161320&ring=96CDFB&currStreakLabel=96CDFB&fire=DDB6F2&currStreakNum=D9E0EE&sideLabels=D9E0EE&sideNums=D9E0EE&dates=E8A2AF&border=D9E0EE)](https://git.io/streak-stats)
 
 Um idk what to put now ok bye
