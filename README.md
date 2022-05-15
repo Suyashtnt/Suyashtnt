@@ -22,6 +22,13 @@
 - Some basic guitar.
  
 <!--START_SECTION:waka-->
+
+```text
+Lua    32 mins         █████████████████░░░░░░░░   67.93 %
+Rust   10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
+JSON   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Suyashtnt&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
