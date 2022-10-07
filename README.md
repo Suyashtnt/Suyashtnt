@@ -1,10 +1,10 @@
 
-# I'm `Suyashtnt`, `tnt_man1671`, `tnt man inc`, and `just a badly drawn TABS person` at once
+# I'm `Suyashtnt`, `tnt_man1671`, `tnt man inc`, and `A badly drawn wobbler` at once
 
 ## Random things I randomly do at random times
 
  - V i b e.
- - Play random games(Minecraft, TABG, Apex, Dyson Sphere Program).
+ - Play random games(Minecraft, TABG, Apex, Dyson Sphere Program, Celeste, Grindframe).
  - Code.
  -  - Make absolutely random APIS for no apparent reason.
  -  - work on frontends for some of them.
@@ -14,7 +14,8 @@
 
 ## Things I know
 - [Svelte](https://svelte.dev/): Cybernetically Enhanced webapps.
-- [Sveltekit](https://kit.svelte.dev/): Next.js/Nuxt but for svelte.
+- [Sveltekit](https://kit.svelte.dev/): Nuxt but for svelte.
+- [Nuxt 3](https://v3.nuxtjs.org): Sveltekit but for vue.
 - [Rust](https://www.rust-lang.org/): A language empowering everyone to build reliable and efficient software.
 - [Node.js](https://nodejs.org/en/): A runtime for javascript using the V8 engine.
 - [Deno](https://deno.land/): Node.js rust edition.
