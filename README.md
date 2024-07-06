@@ -4,22 +4,19 @@
 ## Random things I randomly do at random times
 
  - V i b e.
- - Play random games(Minecraft, TABG, Apex, Dyson Sphere Program, Celeste, Grindframe).
+ - Play random games(Minecraft, Crab Champions, Dyson Sphere Program, and some misc. programming games).
  - Code.
- -  - Make absolutely random APIS for no apparent reason.
- -  - work on frontends for some of them.
- -  - mess around with things.
- -  - make Minecraft mods(fabric).
- -  - most things i make are open source.
+    - Makes cursed projects.
+    - Usually some form of web frontend is involved.
+    - Open Sources basically all of them (Check my repo list!)
 
 ## Things I know
 - [Svelte](https://svelte.dev/): Cybernetically Enhanced webapps.
 - [Sveltekit](https://kit.svelte.dev/): Nuxt but for svelte.
-- [Nuxt 3](https://v3.nuxtjs.org): Sveltekit but for vue.
 - [Rust](https://www.rust-lang.org/): A language empowering everyone to build reliable and efficient software.
-- [Node.js](https://nodejs.org/en/): A runtime for javascript using the V8 engine.
-- [Deno](https://deno.land/): Node.js rust edition.
-- [Unity](https://unity.com/): A 3D and 2D game engine using C#.
+    - Tokio
+    - Reqwest
+    - I've done oauth2 far too many times 
 - Some basic guitar.
  
 <!--START_SECTION:waka-->
@@ -30,7 +27,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Suyashtnt&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suyashtnt&theme=onedark&date_format=j%20M%5B%20Y%5D&background=161320&ring=96CDFB&currStreakLabel=96CDFB&fire=DDB6F2&currStreakNum=D9E0EE&sideLabels=D9E0EE&sideNums=D9E0EE&dates=E8A2AF&border=D9E0EE)](https://git.io/streak-stats)
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Suyashtnt&show_icons=true&bg_color=09071f&text_color=d9daff&icon_color=a89dff&title_color=a89dff)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Suyashtnt&theme=onedark&date_format=j%20M%5B%20Y%5D&background=09071f&ring=a89dff&currStreakLabel=d9daff&fire=e6443d&currStreakNum=a89dff&sideLabels=a89dff&sideNums=a89dff&dates=d9daff&border=a89dff)](https://git.io/streak-stats)
 
 Um idk what to put now ok bye
