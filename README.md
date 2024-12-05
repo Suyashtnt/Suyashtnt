@@ -1,23 +1,23 @@
 
-# I'm `Suyashtnt`, `tnt_man1671`, `tnt man inc`, and `A badly drawn wobbler` at once
+# I'm `Suyashtnt`, `TNTMan1671` and `A badly drawn wobbler`
+(I have too many nicknames)
 
-## Random things I randomly do at random times
+## Some things I do
 
- - V i b e.
- - Play random games(Minecraft, Crab Champions, Dyson Sphere Program, and some misc. programming games).
- - Code.
-    - Makes cursed projects.
-    - Usually some form of web frontend is involved.
+ - V i b e (rare)
+ - Play video games (Some personal favourites: ULTRAKILL, Minecraft, Celeste, Dyson Sphere Program)
+ - Create cursed code
     - Open Sources basically all of them (Check my repo list!)
 
-## Things I know
-- [Svelte](https://svelte.dev/): Cybernetically Enhanced webapps.
-- [Sveltekit](https://kit.svelte.dev/): Nuxt but for svelte.
-- [Rust](https://www.rust-lang.org/): A language empowering everyone to build reliable and efficient software.
-    - Tokio
-    - Reqwest
-    - I've done oauth2 far too many times 
-- Some basic guitar.
+## The programming language skill stack
+- [Svelte](https://svelte.dev/) (and SvelteKit)
+  - I like Atomic CSS (Tailwind, MasterCSS, etc.)
+  - CSS Variables my beloved
+  - Typescript enjoyer
+  - Semantic HTML user
+- [Rust](https://www.rust-lang.org/)
+  - I have advertised it enough IRL to have a section in my IT classrooms board dedicated to the amount of time's I've talked about it
+  - Learn it or Ferris will appear in your room at night (and also kindly ask you to learn it)
  
 <!--START_SECTION:waka-->
 
